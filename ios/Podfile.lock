@@ -1,0 +1,24 @@
+PODS:
+  - MomoiOSSwiftSdk (3.0.3)
+
+DEPENDENCIES:
+  - MomoiOSSwiftSdk (from `https://github.com/momo-wallet/mobile-sdk.git`, branch `release_swift`)
+
+EXTERNAL SOURCES:
+  MomoiOSSwiftSdk:
+    :branch: release_swift
+    :git: https://github.com/momo-wallet/mobile-sdk.git
+    :submodules: true
+
+CHECKOUT OPTIONS:
+  MomoiOSSwiftSdk:
+    :commit: 4f8697f93b73a3230a6b1c96c1193357b77d2028
+    :git: https://github.com/momo-wallet/mobile-sdk.git
+    :submodules: true
+
+SPEC CHECKSUMS:
+  MomoiOSSwiftSdk: 9f06cfc06ffdb563f059b197792ba24a0f15a91c
+
+PODFILE CHECKSUM: dbd776b7d08b7e2efefc145ef756a76d130840ee
+
+COCOAPODS: 1.8.4
